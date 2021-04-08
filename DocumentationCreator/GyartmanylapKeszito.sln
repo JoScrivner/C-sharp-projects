@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyartmanylapKeszito", "GyartmanylapKeszito\GyartmanylapKeszito.csproj", "{796DF8F4-4AC6-4695-A848-7EF709062166}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pdf files", "pdf files", "{605DDA8B-6DB4-4F8C-868C-2409B51C441F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyartmanylapKezelo.UnitTests", "GyartmanylapKezelo.UnitTests\GyartmanylapKezelo.UnitTests.csproj", "{7412A2C9-1CA1-418D-BEF0-E6A8DA5D8E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796DF8F4-4AC6-4695-A848-7EF709062166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796DF8F4-4AC6-4695-A848-7EF709062166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796DF8F4-4AC6-4695-A848-7EF709062166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796DF8F4-4AC6-4695-A848-7EF709062166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7412A2C9-1CA1-418D-BEF0-E6A8DA5D8E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7412A2C9-1CA1-418D-BEF0-E6A8DA5D8E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7412A2C9-1CA1-418D-BEF0-E6A8DA5D8E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7412A2C9-1CA1-418D-BEF0-E6A8DA5D8E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2957C810-751B-40A7-9635-BD6B47F4143A}
+	EndGlobalSection
+EndGlobal
