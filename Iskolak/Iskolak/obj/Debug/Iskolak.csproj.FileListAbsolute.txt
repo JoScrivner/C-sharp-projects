@@ -1,0 +1,13 @@
+D:\Agi\Iskolak\Iskolak\bin\Debug\Iskola.mdf
+D:\Agi\Iskolak\Iskolak\bin\Debug\Iskola_log.ldf
+D:\Agi\Iskolak\Iskolak\bin\Debug\Iskolak.exe.config
+D:\Agi\Iskolak\Iskolak\bin\Debug\Iskolak.exe
+D:\Agi\Iskolak\Iskolak\bin\Debug\Iskolak.pdb
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.csprojAssemblyReference.cache
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.Form1.resources
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.Properties.Resources.resources
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.csproj.GenerateResource.cache
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.csproj.CoreCompileInputs.cache
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.exe
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.pdb
+D:\Agi\Iskolak\Iskolak\obj\Debug\Iskolak.Form2.resources

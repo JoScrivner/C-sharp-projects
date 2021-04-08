@@ -1,0 +1,35 @@
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form1.resources
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form2.resources
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Properties.Resources.resources
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe.config
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.pdb
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.exe
+C:\Users\Owner\Documents\Agi\Visual Studio\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.pdb
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe.config
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.pdb
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csprojAssemblyReference.cache
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form1.resources
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form2.resources
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form3.resources
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Properties.Resources.resources
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.GenerateResource.cache
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.CoreCompileInputs.cache
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.exe
+D:\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.pdb
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe.config
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.exe
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\bin\Debug\Butorok.pdb
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csprojAssemblyReference.cache
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form1.resources
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form2.resources
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Form3.resources
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.Properties.Resources.resources
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.GenerateResource.cache
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.csproj.CoreCompileInputs.cache
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.exe
+D:\Agi\IT\ButorokViszgaSajat\Butorok\Butorok\obj\Debug\Butorok.pdb
