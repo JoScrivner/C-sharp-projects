@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GyartmanylapKeszito.Alapanyag">
+    <Position X="4.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAggAAQoAAEAEAGAABTACAAAQAkoBgIACAIAAA=</HashCode>
+      <FileName>Alapanyag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.AlapanyagForm" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgBAhIAgmAAEBBEEACRBAACAAAAQACAAIABIYAAAQA=</HashCode>
+      <FileName>AlapanyagForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.AnyaghanyadForm" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEISEAAGAAEDAAAgCAQMACAEAIAEAAiNBAAQAAUAA=</HashCode>
+      <FileName>AnyaghanyadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Form1">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAEAAAAACACAACAAAAAgAAAIAAAQAACAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Gyartmanylap">
+    <Position X="7.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>RAgpEAAAgAAQgUAEAEEGWAlyCEAJAAAEgBAIFIgAAAQ=</HashCode>
+      <FileName>Gyartmanylap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.GyartmanylapForm">
+    <Position X="13" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAAAAICAACAAUFAAAACEAIACAgAMAAAgAMAIAQgEAAA=</HashCode>
+      <FileName>GyartmanylapForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Hozzavalo">
+    <Position X="4.25" Y="8.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAEAAAAAABAAIAAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>Hozzavalo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Program">
+    <Position X="17" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.UjAlapanyagForm" Collapsed="true">
+    <Position X="14.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAABChIEBAIBCSACIAiAQAQAEAAEKiJAQBAAAA=</HashCode>
+      <FileName>UjAlapanyagForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.UjGyartmanylapForm">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/2QsAACAEChIBBAMACCADAAiAWQZACGgUCiZCAEAADA=</HashCode>
+      <FileName>UjGyartmanylapForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyartmanylapKeszito.Properties.Settings" Collapsed="true">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
